@@ -1,2 +1,2 @@
 # Pipes
-# ./myCat inputFile = myMore
+ ./myCat inputFile = myMore
